@@ -53,7 +53,7 @@ The backend will be available at `http://localhost:3000`.
 
 ### Include a Header Authorization
 
-For all requests, use an **Authorization header**, of size> = 10 characters, so that you can only manipulate your data, for example:
+For all requests, use an **Authorization header**, of size >= 10 characters, so that you can only manipulate your data, for example:
 
 ```bash
 curl --request GET \
